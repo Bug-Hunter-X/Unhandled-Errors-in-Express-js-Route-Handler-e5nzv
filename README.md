@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Express.js route handlers: missing error handling for invalid input and improper error responses. The `bug.js` file showcases the problematic code, while `bugSolution.js` provides a corrected version with robust error handling.
